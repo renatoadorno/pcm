@@ -1,8 +1,8 @@
 #!/bin/zsh
 
 ZIP='pcm.zip'
-URL='https://github.com/RENATOADORNO/pcm/archive/refs/heads/aliases.zip'
-DIR='pcm-aliases'
+URL='https://github.com/RENATOADORNO/pcm/archive/refs/heads/main.zip'
+DIR='pcm-main'
 NAME='.pcm'
 
 wget -O $ZIP $URL
